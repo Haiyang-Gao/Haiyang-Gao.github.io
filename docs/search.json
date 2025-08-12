@@ -1,93 +1,37 @@
 [
   {
+    "objectID": "study vault.html",
+    "href": "study vault.html",
+    "title": "📖 Study Vault",
+    "section": "",
+    "text": "内容仅供个人学习使用，转载及商业使用须邮件申请并取得书面许可\n这里是一些武汉大学数理金融的学习笔记，供同学们参考。 内容包括数理金融的部分专必、专选以及我在耶鲁大学学习期间的部分课程笔记及作业。\n受限于网页制作时间，此处仅挑选部分质量较高的展示。如需其他资料（如课本、课件、答案等），欢迎邮件联系。\n如有疑问或错误反馈，请邮件联系，谢谢。\n网页持续更新中   Latest update: Aug 12, 2025"
+  },
+  {
+    "objectID": "study vault.html#公告",
+    "href": "study vault.html#公告",
+    "title": "📖 Study Vault",
+    "section": "",
+    "text": "内容仅供个人学习使用，转载及商业使用须邮件申请并取得书面许可\n这里是一些武汉大学数理金融的学习笔记，供同学们参考。 内容包括数理金融的部分专必、专选以及我在耶鲁大学学习期间的部分课程笔记及作业。\n受限于网页制作时间，此处仅挑选部分质量较高的展示。如需其他资料（如课本、课件、答案等），欢迎邮件联系。\n如有疑问或错误反馈，请邮件联系，谢谢。\n网页持续更新中   Latest update: Aug 12, 2025"
+  },
+  {
+    "objectID": "study vault.html#点击以下目录以展开单击文件即可下载",
+    "href": "study vault.html#点击以下目录以展开单击文件即可下载",
+    "title": "📖 Study Vault",
+    "section": "点击以下目录以展开，单击文件即可下载",
+    "text": "点击以下目录以展开，单击文件即可下载\n\n\nIndustrial Organization Notes\n\n\n\nLec1.pdf\n\n\nLec2.pdf\n\n\nLec3.pdf\n\n\nLec4.pdf\n\n\nLec5.pdf\n\n\nLec6.pdf\n\n\nLec7.pdf\n\n\nLec7-9.pdf\n\n\nLec10.pdf\n\n\nLec11.pdf\n\n\nLec12.pdf\n\n\nLec13.pdf\n\n\nLec14.pdf\n\n\n\n\n\nDevelopment Economics Notes\n\n\n\nCh1.pdf\n\n\nCh2.pdf\n\n\nCh3.pdf\n\n\nCh4.pdf\n\n\nCh5.pdf\n\n\nCh6.pdf\n\n\nCh7.pdf\n\n\nCh8.pdf\n\n\nCh9.pdf\n\n\nCh10.pdf\n\n\nCh11.pdf\n\n\nCh12.pdf\n\n\nCh13.pdf\n\n\n\n\n\nIntro to Data Science\n\n\n\nSyllubus.pdf\n\n\n\n\nLec1\n\n\n\nCode\n\n\n\nclass_01_answers.ipynb\n\n\n\n\n\nHW\n\n\n\nhomework_01.ipynb\n\n\n\n\n\n\nLec2\n\n\n\nCode\n\n\n\nclass_02_answers.ipynb\n\n\n\n\n\nHW\n\n\n\nhomework_02.ipynb\n\n\n\n\n\n\nLec3\n\n\n\nCode\n\n\n\nclass_03_answers.ipynb\n\n\n\n\n\nHW\n\n\n\nhomework_03.ipynb\n\n\n\n\n\n\nLec4\n\n\n\nCode\n\n\n\nclass_04_answers.ipynb\n\n\n\n\n\nHW\n\n\n\nhomework_04.ipynb\n\n\n\n\n\n\nLec6\n\n\n\nCode\n\n\n\nclass_06_answers.ipynb\n\n\n\n\n\nHW\n\n\n\nhomework_06.ipynb\n\n\n\n\n\n\nLec7\n\n\n\nCode\n\n\n\nclass_07_answers.ipynb\n\n\n\n\n\nHW\n\n\n\nhomework_07.ipynb\n\n\n\n\n\n\nLec8\n\n\n\nCode\n\n\n\nclass_08_answers.ipynb\n\n\n\n\n\nHW\n\n\n\nhomework_08.ipynb\n\n\n\n\n\n\nGame Theory"
+  },
+  {
     "objectID": "curriculum.html",
     "href": "curriculum.html",
     "title": "📜 Curriculum Vitae",
     "section": "",
-    "text": "Download CV   Latest update: November 2024"
+    "text": "Download CV   Latest update: August 2025"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Valentina Giunchiglia",
+    "title": "Haiyang Gao",
     "section": "",
-    "text": "I am a second-year PhD student jointly affiliated with Imperial College London and Harvard University funded by the Medical Research Council, under the supervision of Prof. Marinka Zitnik and Prof. Adam Hampshire.\nMy work lies at the intersection of artificial intelligence, biology, and health, with a focus on neuroscience. I am interested in a holistic study of diseases across multiple levels — from cellular and genetic to brain structure and clinical phenotypes — to drive advancements in precision medicine. To achieve this, I work on research spanning bioinformatics, artificial intelligence, and clinical and behavioural analysis, with the aim to gain expertise that enables me to leverage diverse data types and insights for precision medicine. Specifically, I am focused on developing multimodal foundation models that integrate diverse data types to effectively capture the complexity of diseases while embedding context-aware knowledge.\nMy long-term research goal is to investigate diseases using multimodal data (e.g., imaging, omics, and electronic health records) to capture diverse disease characteristics and identify precise, clinically applicable treatments.\nI enjoy teaching, both inside and outside academic environments. You can check out a detailed list in my Teaching page.\nI am always happy to supervise students (both in more clinical and more AI focused projects) from Imperial College London, King’s College London and Harvard University. If you are interested in working with me and want to discuss potential projects, you can contact me at v.giunchiglia20@imperial.ac.uk.\n\nKey topics\n\nBiomedical Informatics\nComputational Modelling\nComputational Neuroscience\nMachine Learning\n\n\n\nEducation\n\nMRes Biomedical Research (Data Science) - Imperial College London\nMA Health Humanities - UCL\nBSc Molecular Biotechnology - Heidelberg University\n\n\n\nFurther links"
-  },
-  {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "🎙 Outreach",
-    "section": "",
-    "text": "London Geometry and Machine Learning Summer School\n\n2022-ongoing\nLOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to work together on a variety of problems at the intersection of geometry and machine learning. There will be a selection of group projects, each overseen by an experienced mentor, talks by leading figures in the field, a variety of social events and a company networking night.\n\n\n\n\n\n\nBRAINN Summer School Neuroscience Workshop\n\n2024-08\nHosted by the University of Cyprus on 8-12 July 2024, the BRAINN Summer School offers a unique opportunity for both students and researchers from Cyprus and around the globe to delve into the fascinating world of neuroimaging, neurocognitive assessment, neurocognitive treatment, and non-invasive brain stimulation. Workshop on online neuropsychological assessment methods: remote assessment of cognitive performance and mental health using the Cognitron platform. Hands-on training in collecting and analysing data from online assessment.\n\n\n\n\n\n\nNetworking event\n\n2021-09\nThe goal of the event was to present the research conducted at Imperial College London to current and incoming students (undergraduates and masters). This event aims to inspire students in their career path in academia and related fields and in their choice of PhD topics, and to introduce them to potential research that can be completed while being at Imperial.\n\n\n\n\n\n\nData Science Helper Team\n\n2020-09 – 2021-06\nI organised the data science helper team with the aim to helps students with data science related questions. The activity consisted of lectures, a discussion forum and clinic sessions, where students could get in touch with research project’s specific questions. More details in the teaching tab.\n\n\n\n\n\n\n\nTEDx UniHeidelberg\n\n2018-06\nTED is a nonprofit organization devoted to Ideas Worth Spreading. The main theme of the event was “doubt and dare”. Specifically, to doubt not only the opinions of others, but also their own, to try to look at things differently and consider other people’s opinions."
-  },
-  {
-    "objectID": "outreach.html#invited-speaker",
-    "href": "outreach.html#invited-speaker",
-    "title": "🎙 Outreach",
-    "section": "Invited Speaker",
-    "text": "Invited Speaker\n\n\n\n\n\n\nECTRIMS\n\n2023-10\nI was invited to present my work on the detection of motor and cognitive impairment from online cognitive assessments of people with Multiple Sclerosis.\n\n\n\n\n\n\nInspiring Women in Data\n\n2022-03\nQuantumBlack invited me as speakers for a Data Engineering meetup event. I gave a talk on how to use multimodal data to establish the best predictors of Alzheimer’s progression, and discussed more broadly the potential and limitations of AI, and of its applicability in clinical practice.\n\n\n\n\n\n\nImperial College Data Science Society\n\n2021-11\nArtificial Intelligence (AI) provides powerful tools that can be applied in many different fields and that are capable of solving complex problems, even beyond what we could have imagined many years ago. In biomedical research, AI algorithms can be used to reach diagnosis, predict disease progression and patients’ survival, recommend patients’ treatments and much more, which is all fascinating. But the question is: will these algorithms be ever applied in clinical practice and, in turn, improve people lives?\n\n\n\n\n\n\nPsychobiology: looking at the bigger picture\n\n2020-11\nThe aim of the talk was to describe the potential of interdisciplinary research that crosses the boundaries of social and biological sciences, with a special focus on the field of psychobiology"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "📣 Main Publications",
-    "section": "",
-    "text": "Check my Google Scholar for the full list of publications\n\n\n\n\n\n\nSu, X., Wang, Y., Gao, S., Liu, X., .Giunchiglia, V.., et al. (2024). Knowledge Graph Based Agent for Complex, Knowledge-Intensive QA in Medicine.[Link]\n\n\n\n\n\nGao, S., Fang, A.*, Huang, Y*, Giunchiglia, V.*, Noori, A.*, et al. (2024). Empowering biomedical discovery with ai agents. Cell, 187(22), 6125-6151.[Link]\n\n\n\n\n\nDel Giovane, M., Giunchiglia, V., et al. (2024). Remote cognitive tests predict neurodegenerative biomarkers in the Insight 46 cohort. medRxiv, 2024-09.[Link]\n\n\n\n\n\nCai, Z.*, Giunchiglia, V.*, Street, R.*, et al. (2024). Online46: online cognitive assessments in elderly cohorts-the British 1946 birth cohort case study. medRxiv, 2024-09.[Link]\n\n\n\n\n\nGiunchiglia, V., et al. Neural correlates of cognitive ability and visuo-motor speed: validation of IDoCT on UK Biobank Data. Imaging Neuroscience, 2: 1-25 (2024) [Link]\n\n\n\n\n\nGiunchiglia, V., et al. An iterative approach for estimating domain specific cognitive abilities from large scale online cognitive data. npj Nature Digital Health (2024) [Link]\n\n\n\n\n\nHampshire, A., Azor, A., Atchison, C., Trender, W., Hellyer, P. J., Giunchiglia, V., et al.(2024). Cognition and memory after Covid-19 in a large community sample. New England Journal of Medicine, 390(9), 806-818. [Link]\n\n\n\n\n\nRida, L., Ioannidis, K., Chamberlain, S. R., Grant, J. E., Hellyer, P., Giunchiglia, V., et al. (2024). Validation of the Comprehensive Online Sleep Monitoring Scale (COSMOS) in a Large Population Sample. medRxiv, 2024-10. [Link]\n\n\n\n\n\nCheetham, N. J., Penfold, R., Giunchiglia, V., et al. (2023). The effects of COVID-19 on cognitive performance in a community-based cohort: a COVID symptom study biobank prospective cohort study. EClinicalMedicine, 62. [Link]\n\n\n\n\n\nKurtin, D. L., Giunchiglia, V., et al. (2023). Moving from phenomenological to predictive modelling: Progress and pitfalls of modelling brain stimulation in-silico. Neuroimage, 272, 120042. [Link]\n\n\n\n\n\nGiunchiglia, V., Shukla, C.V., Gonzalez, G. and Agarwal, C., “Towards Training GNNs using Explanation Directed Message Passing.” arXiv preprint 2022, arXiv:2211.16731. [Link]\n\n\n\n\n\nIsberg OG, Giunchiglia V, et al. “Automated Cancer Diagnostics via Analysis of Optical and Chemical Images by Deep and Shallow Learning.” Metabolites. 2022; 12(5):455. [Link]\n\n\n\n\n\nLewis-Jackson, S., Iob, E , Giunchiglia, V., et al. “Policies and politics: an analysis of the public policies aimed at the reorganization of healthcare delivery during the COVID-19 pandemic”. In Caring on the Frontline during COVID-19 (pp. 39-64). Palgrave Macmillan, Singapore. [Link]\n\n\n\n\n\nIob, E., Lacey, R., Giunchiglia, V., et al. “Adverse childhood experiences and severity levels of inflammation and depression from childhood to young adulthood: a longitudinal cohort study.” Mol Psychiatry 27, 2255– 2263 (2022). [Link]\n\n\n\n\n\nDelacher, M., Imbusch, C.D., Hotz-Wagenblatt, A., Mallm, J.P., Bauer, K., Simon, M., Riegel, D., Rendeiro, A.F., Bittner, S., Sanderink, L., Pant, A., Schmidleithner, L., Braband, K.L., Echtenachter, B., Fischer, A., Giunchiglia, V., et al. “Precursors for nonlymphoid-tissue Treg cells reside in secondary lymphoid organs and are programmed by the transcriptor factor BATF.” Cell Immunity, 2020, 52(2), 295-312. Cit. 82. [Link]"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "👩‍🏫 Teaching",
-    "section": "",
-    "text": "November - December 22 | Master’s | 🔗 Materials\n\n\nStatistics\n\n\nR\n\n\nML\n\n\n(Ongoing)\nInteractive workshops on a variety of topics in Biomedical Data Science for the MRes Biomedical Research from Imperial College London.\nTopics covered so far: Model Validation and Performance & Univariate Statistics.\n\n\n\nNovember 22 | Master’s | 🔗 Materials\n\n\nPython\n\n\nML\n\n\nStatistics\n\n\nBrain image analysis\n\n\nNLP\n\n\nGraph Theory\n\n\nI designed the learning materials and assisted in the teaching of all workshops. Generally speaking, the content included hands-on training in data cleaning, pre-processing and wrangling and applied statistical techniques (i.e. Regression, ANOVA). More specifically to brain sciences, I designed materials for analysing structural and functional MRI data (i.e. volumetric measures, resting-state, task-fMRI and graph theory). Other more advanced workshops that I also created involved hands-on introduction to supervised and unsupervised Machine Learning and NLP. All workshops materials were shared as Jupyter notebooks.\n\n\n\nOctober 22 | Master’s | 🔗 Materials\n\n\nPython\n\n\nCoding pre-material of the MSc Translational Neuroscience at Imperial College London. It is an introduction to programming in Python and statistics, aimed to provide students the necessary foundation to smooothly complete the programming modules that the course offers and to bridge the gap between students with low and high coding literacy. It contains introductory Jupyter notebooks on all-things Python, including functions, loops, arrays, strings, lists, dictionaries, dataframes, basic statistics (i.e. correlations, t-tests, linear regressions, non-parametric tests) and plotting (both seaborn and matplotlib)."
-  },
-  {
-    "objectID": "teaching.html#brain-imaging",
-    "href": "teaching.html#brain-imaging",
-    "title": "👩‍🏫 Teaching",
-    "section": "Brain imaging",
-    "text": "Brain imaging\nJanuary - February 22 | Master’s | 🔗 Materials\n\n\nBrain image analysis\n\n\nTeaching of lectures on functional and structural MRI, voxel based morphometry and diffusion tensor imaging. Teaching assistant in the workshops on the practical application of the concepts taught in the lectures.\nThe lecture slides were prepared with the help from Amy Jolly and Richard Daws."
-  },
-  {
-    "objectID": "teaching.html#data-science-helper-team",
-    "href": "teaching.html#data-science-helper-team",
-    "title": "👩‍🏫 Teaching",
-    "section": "Data Science Helper Team",
-    "text": "Data Science Helper Team\nOctober 20 - May 21 | Master’s | 🔗 Materials\n\n\nR\n\n\nStatistics\n\n\nML\n\n\nAs a lab scientist, what would you do if you need to analyse the data you have collected but you have never done it before? The DS helper team, which is a student-led activity organised within the MRes in Biomedical Research, is here to help you. The project is characterised by different forms of peer-to-peer learning, whose aim is to create an open, friendly, instructive environment where students can reach out in case of issues with data science related topics and can learn some data science if interested.\nRead more"
-  },
-  {
-    "objectID": "teaching.html#cancer-mehtylome-analysis",
-    "href": "teaching.html#cancer-mehtylome-analysis",
-    "title": "👩‍🏫 Teaching",
-    "section": "Cancer Mehtylome Analysis",
-    "text": "Cancer Mehtylome Analysis\nApril - August 19 | Bachelor | 🔗 Materials\n\n\nR\n\n\nStatistics\n\n\n5 groups of 4 students were tasked with identifying differentially methylateed regions (DMRs) between groups of samples and interpreting the sequence context of these regions. Reducing the dimensionality of the methylation whilst enriching for functionally relevant regions is vital, especially when working with constrained computational resources."
-  },
-  {
-    "objectID": "outreach.html#organizer",
-    "href": "outreach.html#organizer",
-    "title": "🎙 Outreach",
-    "section": "",
-    "text": "London Geometry and Machine Learning Summer School\n\n2022-ongoing\nLOGML (London Geometry and Machine Learning) aims to bring together mathematicians and computer scientists to work together on a variety of problems at the intersection of geometry and machine learning. There will be a selection of group projects, each overseen by an experienced mentor, talks by leading figures in the field, a variety of social events and a company networking night.\n\n\n\n\n\n\nBRAINN Summer School Neuroscience Workshop\n\n2024-08\nHosted by the University of Cyprus on 8-12 July 2024, the BRAINN Summer School offers a unique opportunity for both students and researchers from Cyprus and around the globe to delve into the fascinating world of neuroimaging, neurocognitive assessment, neurocognitive treatment, and non-invasive brain stimulation. Workshop on online neuropsychological assessment methods: remote assessment of cognitive performance and mental health using the Cognitron platform. Hands-on training in collecting and analysing data from online assessment.\n\n\n\n\n\n\nNetworking event\n\n2021-09\nThe goal of the event was to present the research conducted at Imperial College London to current and incoming students (undergraduates and masters). This event aims to inspire students in their career path in academia and related fields and in their choice of PhD topics, and to introduce them to potential research that can be completed while being at Imperial.\n\n\n\n\n\n\nData Science Helper Team\n\n2020-09 – 2021-06\nI organised the data science helper team with the aim to helps students with data science related questions. The activity consisted of lectures, a discussion forum and clinic sessions, where students could get in touch with research project’s specific questions. More details in the teaching tab.\n\n\n\n\n\n\n\nTEDx UniHeidelberg\n\n2018-06\nTED is a nonprofit organization devoted to Ideas Worth Spreading. The main theme of the event was “doubt and dare”. Specifically, to doubt not only the opinions of others, but also their own, to try to look at things differently and consider other people’s opinions."
-  },
-  {
-    "objectID": "teaching.html#biomedical-research-ds-stream-workshops",
-    "href": "teaching.html#biomedical-research-ds-stream-workshops",
-    "title": "👩‍🏫 Teaching",
-    "section": "",
-    "text": "November - December 22 | Master’s | 🔗 Materials\n\n\nStatistics\n\n\nR\n\n\nML\n\n\n(Ongoing)\nInteractive workshops on a variety of topics in Biomedical Data Science for the MRes Biomedical Research from Imperial College London.\nTopics covered so far: Model Validation and Performance & Univariate Statistics."
-  },
-  {
-    "objectID": "teaching.html#introduction-to-computational-methods-for-the-brain-sciences",
-    "href": "teaching.html#introduction-to-computational-methods-for-the-brain-sciences",
-    "title": "👩‍🏫 Teaching",
-    "section": "",
-    "text": "November 22 | Master’s | 🔗 Materials\n\n\nPython\n\n\nML\n\n\nStatistics\n\n\nBrain image analysis\n\n\nNLP\n\n\nGraph Theory\n\n\nI designed the learning materials and assisted in the teaching of all workshops. Generally speaking, the content included hands-on training in data cleaning, pre-processing and wrangling and applied statistical techniques (i.e. Regression, ANOVA). More specifically to brain sciences, I designed materials for analysing structural and functional MRI data (i.e. volumetric measures, resting-state, task-fMRI and graph theory). Other more advanced workshops that I also created involved hands-on introduction to supervised and unsupervised Machine Learning and NLP. All workshops materials were shared as Jupyter notebooks."
-  },
-  {
-    "objectID": "teaching.html#pre-material-of-the-msc-translational-neuroscience",
-    "href": "teaching.html#pre-material-of-the-msc-translational-neuroscience",
-    "title": "👩‍🏫 Teaching",
-    "section": "",
-    "text": "October 22 | Master’s | 🔗 Materials\n\n\nPython\n\n\nCoding pre-material of the MSc Translational Neuroscience at Imperial College London. It is an introduction to programming in Python and statistics, aimed to provide students the necessary foundation to smooothly complete the programming modules that the course offers and to bridge the gap between students with low and high coding literacy. It contains introductory Jupyter notebooks on all-things Python, including functions, loops, arrays, strings, lists, dictionaries, dataframes, basic statistics (i.e. correlations, t-tests, linear regressions, non-parametric tests) and plotting (both seaborn and matplotlib)."
+    "text": "I am a final-year undergraduate student at the Hongyi Honor College, Wuhan University, majoring in Mathematical Finance. In the 2024–2025 academic year, I studied Sports Management and Business Analytics under the supervision of Dr. Lorena Martin at the University of Southern California. In the summer of 2025, I attended the Yale Summer Session, where I took courses in Game Theory and Data Science.\nMy academic training has given me a broad foundation in microeconomics, macroeconomics, econometrics, behavioral economics, game theory, market equilibrium theory, statistics, stochastic analysis, numerical analysis, and data science. I am particularly interested in leveraging data science techniques — including machine learning and natural language processing — together with financial theory to rigorously investigate the degree of market rationality in China, a topic I believe is underexplored but of great importance for improving the market environment. In addition, inspired by Dr. Martin’s course and my own passion for badminton, I aim to conduct interdisciplinary research at the intersection of data science and sports, with a focus on injury prevention, career longevity, and competition scheduling optimization in professional badminton. My long-term goal is to provide evidence-based recommendations for organizations such as the Badminton World Federation (BWF) to balance athlete health with audience engagement.\nI have served as a teaching assistant for a Game Theory course (2024–2025), published the 2024 Annual Report on China’s Green Credit Market in Modern Commercial Bank (2025), and participated in seminar discussions on industrial organization theory in Professor Bo Shen’s research group.\n\nKey topics\n\nMathematical Finance\nData Science\nSports Management\n\n\n\nEducation\n\nBSc Mathematical Finance - Wuhan University, Hongyi Honor College （2022-present）"
   }
 ]

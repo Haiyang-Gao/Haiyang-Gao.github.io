@@ -1,0 +1,187 @@
+---
+title: "📖 Study Vault"
+format:
+  html:
+    page-layout: full
+    css: styles.css
+---
+
+<!-- 文本内容 -->
+## 公告
+
+**内容仅供个人学习使用，转载及商业使用须邮件申请并取得书面许可**
+
+这里是一些武汉大学数理金融的学习笔记，供同学们参考。
+内容包括数理金融的部分专必、专选以及我在耶鲁大学学习期间的部分课程笔记及作业。
+
+受限于网页制作时间，此处仅挑选部分质量较高的展示。如需其他资料（如课本、课件、答案等），欢迎邮件联系。
+
+如有疑问或错误反馈，请邮件联系，谢谢。
+
+网页持续更新中  &emsp; Latest update: Aug 12, 2025
+
+---
+
+
+
+## 点击以下目录以展开，单击文件即可下载
+
+<details>
+  <summary>Industrial Organization Notes</summary>
+  <ul>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec1.pdf">Lec1.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec2.pdf">Lec2.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec3.pdf">Lec3.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec4.pdf">Lec4.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec5.pdf">Lec5.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec6.pdf">Lec6.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec7.pdf">Lec7.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec7-9.pdf">Lec7-9.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec10.pdf">Lec10.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec1q.pdf">Lec11.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec12.pdf">Lec12.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec13.pdf">Lec13.pdf</a></li>
+    <li><a href="/assets/study vault/Industrial Organization Notes/Lec14.pdf">Lec14.pdf</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Development Economics Notes</summary>
+  <ul>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch1.pdf">Ch1.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch2.pdf">Ch2.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch3.pdf">Ch3.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch4.pdf">Ch4.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch5.pdf">Ch5.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch6.pdf">Ch6.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch7.pdf">Ch7.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch8.pdf">Ch8.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch9.pdf">Ch9.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch10.pdf">Ch10.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch11.pdf">Ch11.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch12.pdf">Ch12.pdf</a></li>
+    <li><a href="/assets/study vault/Development Economics Notes/Ch13.pdf">Ch13.pdf</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Intro to Data Science</summary>
+  <ul>
+    <li><a href="/assets/study vault/Intro to Data Science/Syllabus.pdf">Syllubus.pdf</a></li>
+  </ul>
+  <details>
+    <summary>Lec1</summary>
+    <details>
+      <summary>Code</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec1/code/class_01_answers.ipynb">class_01_answers.ipynb</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>HW</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec1/HW/homework_01.ipynb">homework_01.ipynb</a></li>
+      </ul>
+    </details>
+  </details>
+
+    <details>
+    <summary>Lec2</summary>
+    <details>
+      <summary>Code</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec2/code/class_02_answers.ipynb">class_02_answers.ipynb</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>HW</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec2/HW/homework_02.ipynb">homework_02.ipynb</a></li>
+      </ul>
+    </details>
+  </details>
+
+    <details>
+    <summary>Lec3</summary>
+    <details>
+      <summary>Code</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec3/code/class_03_answers.ipynb">class_03_answers.ipynb</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>HW</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec3/HW/homework_03.ipynb">homework_03.ipynb</a></li>
+      </ul>
+    </details>
+  </details>
+
+    <details>
+    <summary>Lec4</summary>
+    <details>
+      <summary>Code</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec4/code/class_04_answers.ipynb">class_04_answers.ipynb</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>HW</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec4/HW/homework_04.ipynb">homework_04.ipynb</a></li>
+      </ul>
+    </details>
+  </details>
+
+    <details>
+    <summary>Lec6</summary>
+    <details>
+      <summary>Code</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec6/code/class_06_answers.ipynb">class_06_answers.ipynb</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>HW</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec6/HW/homework_06.ipynb">homework_06.ipynb</a></li>
+      </ul>
+    </details>
+  </details>
+
+    <details>
+    <summary>Lec7</summary>
+    <details>
+      <summary>Code</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec7/code/class_07_answers.ipynb">class_07_answers.ipynb</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>HW</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec7/HW/homework_07.ipynb">homework_07.ipynb</a></li>
+      </ul>
+    </details>
+  </details>
+
+    <details>
+    <summary>Lec8</summary>
+    <details>
+      <summary>Code</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec8/code/class_08_answers.ipynb">class_08_answers.ipynb</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary>HW</summary>
+      <ul>
+        <li><a href="/assets/study vault/Intro to Data Science/Lec8/HW/homework_08.ipynb">homework_08.ipynb</a></li>
+      </ul>
+    </details>
+  </details>
+</details>
+
+
+
+- [Game Theory](/assets/study vault/Game Theory.pdf)
