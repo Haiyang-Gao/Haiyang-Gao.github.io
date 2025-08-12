@@ -9,7 +9,7 @@ about:
       href: https://github.com/Haiyang-Gao/
     - icon: envelope
       text: Reach me per email
-      href: "highsea_econ@icloud.com"
+      href: "mailto:highsea_econ@icloud.com"
 
 ---
 
