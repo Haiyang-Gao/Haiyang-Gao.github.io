@@ -17,7 +17,14 @@ I am a final-year undergraduate student at the Hongyi Honor College, Wuhan Unive
 
 My academic training has given me a broad foundation in microeconomics, macroeconomics, econometrics, behavioral economics, game theory, market equilibrium theory, statistics, stochastic analysis, numerical analysis, and data science. I am particularly interested in leveraging data science techniques — including machine learning and natural language processing — together with financial theory to rigorously investigate the degree of market rationality in China, a topic I believe is underexplored but of great importance for improving the market environment. In addition, inspired by Dr. Martin’s course and my own passion for badminton, I aim to conduct interdisciplinary research at the intersection of data science and sports, with a focus on injury prevention, career longevity, and competition scheduling optimization in professional badminton. My long-term goal is to provide evidence-based recommendations for organizations such as the Badminton World Federation (BWF) to balance athlete health with audience engagement.
 
-I have served as a teaching assistant for a Game Theory course (2024–2025), published the 2024 Annual Report on China’s Green Credit Market in Modern Commercial Bank (2025), and participated in seminar discussions on industrial organization theory in Professor Bo Shen’s research group.
+### Research & Teaching
+
+I have served as a teaching assistant for a Game Theory course (2024–2025).
+I have published the 2024 Annual Report on China’s Green Credit Market in Modern Commercial Bank (2025).
+I have participate in seminar discussions on industrial organization theory in Professor Bo Shen’s research group.
+I am a research assistant at Marshall Business School, University of Southern California.
+I am conducting research under the supervision of Dr. Shivam, a faculty member at Yale, focusing on applying Transformer architectures to the analysis of financial time series.
+[Download the manuscript (PDF)](assets/H_s_Model.pdf)
 
 ### Key topics
 
