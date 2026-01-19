@@ -23,7 +23,7 @@ I have served as a teaching assistant for a Game Theory course (2024–2025).
 I have published the 2024 Annual Report on China’s Green Credit Market in Modern Commercial Bank (2025).
 I have participate in seminar discussions on industrial organization theory in Professor Bo Shen’s research group.
 I am a research assistant at Marshall Business School, University of Southern California.
-I am conducting research under the supervision of Dr. Shivam, a faculty member at Yale, focusing on applying Transformer architectures to the analysis of financial time series.
+I am conducting research under the supervision of Dr. Sharma, a faculty member at Yale, focusing on applying Transformer architectures to the analysis of financial time series.
 [Download the manuscript (PDF)](assets/H_s_Model.pdf)
 
 ### Key topics
