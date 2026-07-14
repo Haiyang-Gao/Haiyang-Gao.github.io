@@ -13,27 +13,32 @@ about:
 
 ---
 
-I am a final-year undergraduate student at the Hongyi Honor College, Wuhan University, majoring in Mathematical Finance. In the 2024–2025 academic year, I studied Sports Management and Business Analytics under the supervision of Dr. Lorena Martin at the University of Southern California. In the summer of 2025, I attended the Yale Summer Session, where I took courses in Game Theory and Data Science.
+I graduated from Hongyi Honor College at Wuhan University in June 2026 with degrees in mathematics and finance. Beginning in September 2026, I will pursue the MSc in Artificial Intelligence in the Department of Computing at Imperial College London. Previously, I studied Sports Management and Business Analytics under the supervision of Dr. Lorena Martin at the University of Southern California and completed Yale Summer Session courses in Game Theory and Data Science.
 
-My academic training has given me a broad foundation in microeconomics, macroeconomics, econometrics, behavioral economics, game theory, market equilibrium theory, statistics, stochastic analysis, numerical analysis, and data science. I am particularly interested in leveraging data science techniques — including machine learning and natural language processing — together with financial theory to rigorously investigate the degree of market rationality in China, a topic I believe is underexplored but of great importance for improving the market environment. In addition, inspired by Dr. Martin’s course and my own passion for badminton, I aim to conduct interdisciplinary research at the intersection of data science and sports, with a focus on injury prevention, career longevity, and competition scheduling optimization in professional badminton. My long-term goal is to provide evidence-based recommendations for organizations such as the Badminton World Federation (BWF) to balance athlete health with audience engagement.
+My academic path brings together rigorous training in mathematics, finance, data science, and sports analytics, alongside research experience at Wuhan University, USC, and Yale. These experiences have shaped an interdisciplinary approach to both theory and applied research. I am especially interested in algorithms for deep learning models, including but not limited to deep-model-based time-series forecasting, embodied AI, simultaneous localization and mapping (SLAM), and robotics. Within economics and finance, my primary interest is the platform economy, particularly how platform design, competition, advertising, and user behaviour affect consumer and social welfare. Outside academia, I am an enthusiastic badminton and football player. My experience in competitive sport, together with developing a badminton mini program used by more than 700 players, continues to motivate my interest in data-driven questions such as injury prevention, career longevity, and competition scheduling.
 
 ### Research & Teaching
 
-I have served as a teaching assistant for a Game Theory course (2024–2025).
-I have published the 2024 Annual Report on China’s Green Credit Market in Modern Commercial Bank (2025).
-I have participate in seminar discussions on industrial organization theory in Professor Bo Shen’s research group.
-I am a research assistant at Marshall Business School, University of Southern California.
-I am conducting research under the supervision of Dr. Sharma, a faculty member at Yale, focusing on applying Transformer architectures to the analysis of financial time series.
-[Download the manuscript (PDF)](assets/H_s_Model.pdf)
+- **X-KANformer: A Cross-Attentive Kolmogorov-Arnold Transformer for Portfolio Allocation** (working paper, 2026). Under the supervision of Dr. Shivam Sharma at Yale University, I am developing an encoder-only architecture that combines endogenous return patches with exogenous Fama-French factors and news sentiment through self-attention and cross-attention, while replacing the conventional feed-forward network with Kolmogorov-Arnold Networks. The model directly learns portfolio weights under a Sharpe-ratio objective and incorporates selective learning to reduce the influence of anomalous observations. [Working-paper placeholder (PDF)](assets/X_KANformer.pdf)
+
+- **Sparseformer: Improving Long-Range Dependency Modeling for Time-Series Forecasting** (2025-2026). I led the model design and manuscript drafting for a Transformer-based forecasting architecture that combines transformable sparse attention with seasonal-trend decomposition features to address the computational and receptive-field limitations of long-sequence forecasting. [Read the manuscript (PDF)](assets/H_s_Model.pdf)
+
+- **Economic Effects of the LA2028 Olympics** (2025-2026). As a research assistant in Dr. Lorena Martin's Trojans Sports Research Lab at the USC Marshall School of Business, I contributed to research on the local economic effects of the 2028 Olympic Games.
+
+- **Platform Economy Research** (2024-2025). In Professor Bo Shen's research group at Wuhan University, I studied platform business models, competition, user behaviour, advertising, and their implications for consumer and social welfare.
+
+- **Research publication and teaching.** I co-authored the *2024 Green Finance Annual Report*, published in *Modern Commercial Bank* in 2025, and served as an outstanding teaching assistant for Game Theory at Wuhan University in 2025.
 
 ### Key topics
 
-- Mathematical Finance
+- Deep Model-Based Time-Series Forecasting
 - Data Science
+- Embodied AI & Robotics
+- Mathematical Finance
 - Sports Management
 
 
 ### Education
 
-- BSc in Mathematical Finance - Wuhan University, Hongyi Honor College （2022 - present）
-- BSc in Mathematics and Applied Mathematics - Wuhan University, Hongyi Honor College (2022 - present)
+- MSc in Artificial Intelligence - Imperial College London, Department of Computing (September 2026 - September 2027)
+- Bachelor of Economics in Finance and Bachelor of Mathematics in Mathematics and Applied Mathematics - Wuhan University, Hongyi Honor College (September 2022 - June 2026), Honor Graduate

@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Haiyang Gao"
-  description: "Mathmatical Finance"
+  description: "Artificial Intelligence, Time-Series Forecasting, and Robotics"
   navbar:
     background: "#023a75ff"
     foreground: "#ffffffff"
@@ -28,6 +28,5 @@ format:
       - custom.scss
     toc: true
     linkcolor: black
-
 
 
